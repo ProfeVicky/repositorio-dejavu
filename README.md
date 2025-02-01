@@ -1,2 +1,2 @@
-# dejavu1
-sitio web HTML de Victoria Amaguaña
+# repaso sitios web
+https://rinconesasiaticosec.blogspot.com/
